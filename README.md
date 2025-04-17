@@ -2,6 +2,9 @@
 
 A mock booking dashboard built using Next.js, Tailwind CSS, and a local JSON mock API. This project demonstrates clean code practices, modular design, and a responsive UI that fetches and displays booking data.
 
+![Booking Dashboard Preview](vehicle.png)
+
+
 ## Features
 
 - Dashboard overview with booking statistics
